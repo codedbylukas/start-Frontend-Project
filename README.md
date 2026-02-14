@@ -6,7 +6,7 @@ This small script creates a directory for a frontend project, optionally initial
 - Python 3.x installed
 - Optional: Git installed (if you want to initialize a repository)
 
-## Benutzung:
+## Usage:
 1. Install Python
 2. Open a terminal in your project folder.
 3. Run the script:
@@ -24,6 +24,7 @@ This small script creates a directory for a frontend project, optionally initial
 ###### style.css (empty CSS-Datei)
 ###### script.js (empty JS-Datei)
 ###### Optional: a Git repository with an initial commit ("Initial commit")
+
 ## Notes:
 
 The script executes system commands for Git (git init, git add ., git commit -m "Initial commit"). Make sure Git is available if you choose this option.
